@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+
+.navbar {
+  box-shadow: none !important;
+}
+.btn {
+  box-shadow: none !important;
+}
+
+.custom-div {
+  box-shadow: none !important;
+}
+
+.logo-nav-colour {
+  color: #00a48e;
+  font-family: "Inter", sans-serif;
+}
+.logo-colour {
+  color: #4ed3c5;
+  font-family: "Inter", sans-serif;
+}
+.custom-button {
+  border-radius: 30px;
+  color: white;
+}
+.text-button {
+  background-color: #4ed3c5;
+}
+.nav-button {
+  background-color: #1c2747;
+}
+.custom-section {
+  background-color: #eefcff;
+  padding: 60px;
+  margin: 0;
+}
